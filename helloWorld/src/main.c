@@ -3,6 +3,6 @@
 #include <math.h>
 
 int main() {
-    printf("\nOlá do projeto %s!\n\n", "helloWorld");
+    printf("Olá do projeto %s!\n", "helloWorld");
     return 0;
 }
